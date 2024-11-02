@@ -8,6 +8,7 @@ from helpers import apology, login_required
 
 genai.configure(api_key=os.environ["GENAI_API_KEY"])
 
+
 app = Flask(__name__)
 app.secret_key = os.urandom(24)
 app.config['SESSION_PERMANENT'] = False
