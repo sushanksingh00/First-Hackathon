@@ -13,6 +13,6 @@
     }
   ],
   "env": {
-    "GENAI_API_KEY": "AIzaSyBDpspxWss7eFD0INqYr7CsKnzuzsgpOuo"
+    "GENAI_API_KEY": "@genai_api_key"
   }
 }
